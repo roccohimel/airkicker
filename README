@@ -1,0 +1,5 @@
+AirKicker
+========
+
+AirKicker is a simple tool for aircrack-ng that makes it easy to send DeAuth packets to networks.
+AirKicker requires aircrack-ng of cource, and it needs BASH and a POSIX system (Linux, BSD, UNIX, MacOS).
